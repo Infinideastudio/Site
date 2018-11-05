@@ -79,7 +79,7 @@ namespace Common {
 					<a href="http://www.skyju.cc/">居正网站</a>
 					<a href="http://ptree.top/">淀粉月刊</a>
 					<a href="https://www.boulkoo.com/">BOULKOO</a>
-					<a href="" class="other_links">申请添加[暂未开放]</a>
+					<a href="" class="other_links">申请添加[暂未开放][]</a>
 				</div>
 				<div class="left">
 					© INFINIDEAS 2015 - 2017

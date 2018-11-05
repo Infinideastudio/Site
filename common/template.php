@@ -80,7 +80,6 @@ namespace Common {
 					<a href="http://ptree.top/">淀粉月刊</a>
 					<a href="https://www.boulkoo.com/">BOULKOO</a>
 					<a href="" class="other_links">申请添加[暂未开放]</a>
-					<a href="http://www.cnzz.com/stat/website.php?web_id=1255967045" class="other_links" target="_blank" title="站长统计">站长统计</a>
 				</div>
 				<div class="left">
 					© INFINIDEAS 2015 - 2017

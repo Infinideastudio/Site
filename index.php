@@ -29,5 +29,13 @@
     <br />
     <a href="">Nebulator on Steam(暂未开放)</a>
 </div>
+<div class="section">
+    <div class="description">Good Time ——</div>
+    <div class="link"><a href="">XQR3.3</a></div>
+    中等容量Minecraft 1.12.2 Mod服务器，搭载一系列科学及魔法Mod……
+    <br />
+    <a href="http://139.99.6.26:8123">在线地图</a>
+    <a href="">地址：139.99.6.26</a>
+</div>
 
 <?php loadFooter(); ?>
